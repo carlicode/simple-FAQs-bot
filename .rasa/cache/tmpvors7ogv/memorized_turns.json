@@ -1,0 +1,13 @@
+{
+  "lookup": {
+    "eJyLrq6NBQAEOAGx": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taS2NhYA6dwbhQ==": "utter_greet",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taSWgBmlJSWpRfEQpbhMiAUAQvc0lw==": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taSWgBmlJSWpRfEQpeSZQMAVicXZ8Zl5aflFuYkgdbW1sQDUhFKY": "utter_ask_status",
+    "eJydjlEKgCAQRK/iATqBV4mQJbaQco3dtR/x7in2b/Q3A28eM+cymXwx3g5W9ZGsyT04goDWvOX0okiVTYJcGU+1qjU7I2oZOJIqsuvoP8PgBcjhPG2RAzTu2582EgVN8kG4POoScgI=": "action_listen",
+    "eJyljs0NwyAMRldhgEzAKlWErNSNUIOpbNMLYveYJneq5OQfPT9/j9omVz+M3wCLxkze1aMJBAm9O4ctiiIZWwTZmEg2qncrI2obOIoqcjjQa4ZBCpB3iPTKnKBz/+XpR6KgRW4LB/F6ZfqZYLOf5Wnr1uYdnZmSnQ==": "utter_international_information",
+    "eJyljssNgzAMhlfJAJ0gq1RVZIFbRYBBttNLxO44wKE9JYKTH/of3zOvD5cXxm+ATuNM3uVjCQQTenceYxRFMm0SZNNEslO9+zCirpWMpIocDum1hAoFyBAivWeeoOjaeIpJFDTJ7cAKXplMexKM1pl6e7dB/lt/kVpbXhsCMbrc": "action_listen",
+    "eJyljsENwzAIRVfxAJ3Aq0SVRVoSoSY4ApyL5d1LlNxdpTc+enzeUNsj1E1wT/AyyhxDPYfEsGIMV1hIDdnZoijOEHu0GGZBtNbpKGYo6UTvNXQsQD+JeMqywsH95nMcqYEV/buwozfmhXYC9nfl7ZvWnl/ETJB5": "utter_bolivian_information",
+    "eJyljsENwzAIRVfxAJnAq1SRRVsSoSa4ApyLld1LlKrqzVZ7A/T+513qPoT6FNwS3Iwyx1DPITGsGMN7WUgN2dmiKM4Q+2oxzIJoe6OjmKGkE/2toWEB+kjEU5YVDq7P5wipgRX9u7Chd80LbQTs78rdL31+n9S3SEf3+AIhTLRw": "action_listen"
+  }
+}

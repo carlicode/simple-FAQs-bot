@@ -1,0 +1,23 @@
+version: "3.0"
+
+stories:
+
+- story: happy path new bolivian
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: ask_information
+  - action: utter_ask_status
+  - intent: bolivian_student
+  - action: utter_bolivian_information
+
+- story: happy path international
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: ask_information
+  - action: utter_ask_status
+  - intent: international_student
+  - action: utter_international_information
+
+
