@@ -1,5 +1,5 @@
 
-## Introduction
+## Introducción
 Este es un proyecto básico sobre la construcción de un bot en [RASA](https://rasa.com/) que responde un par de preguntas y respuestas sobe preguntas frecuentes de la página de la [Universidad Privada Boliviana](https://www.upb.edu/es/docs_admision)
 
 ## Tecnologías usadas
@@ -7,7 +7,7 @@ Anaconda
 Python 3.8
 Rasa 3
 
-## Installation
+## Instalación
 
     conda create -n venv python =3.8
     conda activate
