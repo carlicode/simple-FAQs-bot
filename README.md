@@ -8,7 +8,6 @@ Python 3.8
 Rasa 3
 
 ## Instalación
-
     conda create -n venv python =3.8
     conda activate
     python -m pip uninstall pip
@@ -17,7 +16,6 @@ Rasa 3
     pip install rasa
     
 ## Uso
-
 Comando para entrenar el modelo y usarlo en consola.
 
 rasa train
